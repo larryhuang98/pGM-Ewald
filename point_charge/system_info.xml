@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system>
+  <box>
+    <length unit="angstrom">10.0</length>
+    <width unit="angstrom">10.0</width>
+    <height unit="angstrom">10.0</height>
+  </box>
+  <particles>
+    <particle>
+      <name>Na</name>
+      <charge unit="e">1.0</charge>
+    </particle>
+    <particle>
+      <name>Cl</name>
+      <charge unit="e">-1.0</charge>
+    </particle>
+  </particles>
+</system>
